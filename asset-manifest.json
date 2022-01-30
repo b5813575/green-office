@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/green-oar.github.io/office/static/css/main.33f9234b.css",
-    "main.js": "/green-oar.github.io/office/static/js/main.771dd4a8.js",
-    "static/js/787.907d3e96.chunk.js": "/green-oar.github.io/office/static/js/787.907d3e96.chunk.js",
-    "index.html": "/green-oar.github.io/office/index.html",
-    "main.33f9234b.css.map": "/green-oar.github.io/office/static/css/main.33f9234b.css.map",
-    "main.771dd4a8.js.map": "/green-oar.github.io/office/static/js/main.771dd4a8.js.map",
-    "787.907d3e96.chunk.js.map": "/green-oar.github.io/office/static/js/787.907d3e96.chunk.js.map"
+    "main.css": "/green-office/static/css/main.33f9234b.css",
+    "main.js": "/green-office/static/js/main.c081d197.js",
+    "static/js/787.907d3e96.chunk.js": "/green-office/static/js/787.907d3e96.chunk.js",
+    "index.html": "/green-office/index.html",
+    "main.33f9234b.css.map": "/green-office/static/css/main.33f9234b.css.map",
+    "main.c081d197.js.map": "/green-office/static/js/main.c081d197.js.map",
+    "787.907d3e96.chunk.js.map": "/green-office/static/js/787.907d3e96.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33f9234b.css",
-    "static/js/main.771dd4a8.js"
+    "static/js/main.c081d197.js"
   ]
 }
