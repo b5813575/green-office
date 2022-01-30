@@ -6,7 +6,11 @@ function App() {
     <>
       <div className="App">
         <div className="App-header">
-          <a href="https://greenoar.oas.psu.ac.th/team/" target="_blank">
+          <a
+            href="https://greenoar.oas.psu.ac.th/team/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button variant="danger" size="lg">
               Go to Green OAR
             </Button>
