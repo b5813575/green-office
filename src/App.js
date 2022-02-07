@@ -6,7 +6,7 @@ function App() {
     <>
       <div className="App">
         <div className="App-header">
-          <a
+          {/* <a
             href="https://greenoar.oas.psu.ac.th/team/"
             target="_blank"
             rel="noopener noreferrer"
@@ -14,14 +14,14 @@ function App() {
             <Button variant="danger" size="lg">
               Go to Green OAR
             </Button>
-          </a>
+          </a> */}
 
           <iframe
+            className="responsive-iframe"
+            title="Green office"
+            position="absolute"
             frameBorder="0"
-            title="green office"
-            width="1024"
-            height="612"
-            src="https://app.powerbi.com/view?r=eyJrIjoiMzk4NTBmMTgtMmU4OS00Mjk2LWI0ZjMtZDhhNjc2M2I1NjNlIiwidCI6IjhlNjM0ZTY3LTlkNjYtNDZkMi1hNTI5LWUxYjcwOGM1ZDhiYyIsImMiOjEwfQ%3D%3D&pageName=ReportSection"
+            src="https://app.powerbi.com/view?r=eyJrIjoiNTg3YjI3OWQtZmE5My00OWNmLTg1YzEtYTdmNTE3NTlmNWMyIiwidCI6IjhlNjM0ZTY3LTlkNjYtNDZkMi1hNTI5LWUxYjcwOGM1ZDhiYyIsImMiOjEwfQ%3D%3D"
             frameborder="0"
             allowFullScreen="true"
           ></iframe>
